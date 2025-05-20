@@ -18,3 +18,11 @@ Tıbbi doğal dil işleme (Clinical NLP) alanında sınıflandırma başarısın
 | **scikit-learn**              | Etiketleme ve metrik hesaplama      |
 | **Plotly**                    | Eğitim sürecinin görselleştirilmesi |
 | **Pandas / Datasets**         | Veri işleme ve hazırlık             |
+
+
+# 📊 Sonuçlar
+Model, Validation F1 Micro skoru üzerinden değerlendirilmiştir.
+
+Eğitim süreci boyunca doğrulama kaybı ve F1 skoru düzenli olarak izlenmiş ve görselleştirilmiştir.
+
+Proje, düşük kaynaklı donanımlarda bile büyük transformer modellerinin etkili şekilde kullanılabileceğini göstermiştir.
